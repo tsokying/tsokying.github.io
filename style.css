@@ -189,6 +189,10 @@ footer h4 {
     transition: 0.3s;
 }
 
+.image:hover {
+   	cursor: pointer;
+}
+
 
 .modal {
   display: none; /* Hidden by default */
